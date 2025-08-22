@@ -36,7 +36,7 @@ The main objective is to navigate from a **start point** to an **end point** in 
 
 ---
 
-## 🚀 Getting Started  
+## Getting Started  
 
 ### Requirements
 - Python 3.x  
